@@ -1,0 +1,2 @@
+J'ai essayer d'immplemanter des animations mais je n'ai pas reussi a les lier au player 
+J'ai aussi essayer de faire des collectibles mais je n'ai pas reussi
